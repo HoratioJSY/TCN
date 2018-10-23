@@ -372,8 +372,6 @@
 | Isometric Mapping/Isomap                           | 等度量映射       | [1]                                                     |
 | Isotonic regression                                | 等分回归         | [1]                                                     |
 | Iterative Dichotomiser                             | 迭代二分器       | [1]                                                     |
-| 英文/缩写                     | 汉语    | 来源&扩展 |
-| ----------------------------- | ------- | --------- |
 | Jensen-Shannon Divergence/JSD | JS 散度 | [1]       |
 | Kernel method                                | 核方法                     | [1]                                                          |
 | Kernel trick                                 | 核技巧                     | [1]                                                          |
